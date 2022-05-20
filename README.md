@@ -1,4 +1,4 @@
-# semantic template matching framework for remote sensing image registration  
+# A semantic template matching framework for remote sensing image registration  
 
 
 
