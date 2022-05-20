@@ -26,7 +26,7 @@ Please use Python 3.7, install NumPy, OpenCV (3.4.2) and TensorFlow (2.0.0).
 ##Example of a training data
 
 ![Framework](https://github.com/liliangzhi110/semantictemplatematching/blob/main/img/102_optical.png)       ![image-20210408211154158](https://github.com/liliangzhi110/semantictemplatematching/blob/main/img/102_sar.png)           ![image-20210408211354390](https://github.com/liliangzhi110/semantictemplatematching/blob/main/img/102_label.png)         
-reference image,               ,template image,                                         ,label
+reference image----------------------,---------------------template image,---------------------------,label
 
 ## Get started
 
