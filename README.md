@@ -34,4 +34,6 @@ First download the training data, place it under the project, and then generate 
 ## Training scripts
 
 Training semantic template matching models using model files
+## ISPRS paper
+Li L, Han L, Ding M, et al. A deep learning semantic template matching framework for remote sensing image registration[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2021, 181: 205-217.
 
